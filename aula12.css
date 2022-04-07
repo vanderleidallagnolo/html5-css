@@ -9,7 +9,7 @@ body{
     background: gray url("bg.png") repeat fixed;
     background-size: 50px;
 }
-
+ 
 p {
     background-color: rgba(0, 0, 255, 0.5);
     color: white;
