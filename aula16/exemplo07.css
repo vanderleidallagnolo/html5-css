@@ -1,0 +1,11 @@
+#div1 {
+    background-color: blue;
+    position: absolute;
+    /* position: fixed; */
+    /* position: sticky; */
+    /* position: relative; */
+    top: 100px;
+    right: 100px;
+    left: 100px;
+    bottom: 100px;
+}

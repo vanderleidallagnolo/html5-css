@@ -1,0 +1,23 @@
+body {
+    background-image: url(bg.png);
+    height: 3000px;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+#div1 {
+    background-color: blue;
+}
+
+#div2 {
+    background-color: yellow;
+    position: fixed;
+    left: 50px;
+    right: 50px;
+    top: 50px;
+    bottom: 50px;
+}
