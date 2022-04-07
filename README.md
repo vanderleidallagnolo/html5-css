@@ -9,7 +9,7 @@ Código extraído de seus vídeos no canal:
 
 https://www.youtube.com/channel/UCB0-PxBvklzZsCh6U_rIzAw
 
-Conforme aulas 11 a 14 do tutorial Criação de Sites com HTML5 e CSS3
+Conforme aulas 11 a 17 do tutorial Criação de Sites com HTML5 e CSS3
 
 Aula 11
 
@@ -27,6 +27,18 @@ Aula 14
 
 https://youtu.be/0YeBe25j-qI
 
+Aula 15
+
+https://youtu.be/Wsi9neHK3_k
+
+Aula 16
+
+https://youtu.be/j1O9C-T_1rI
+
+Aula 17
+
+https://youtu.be/WBWt4TmLVCU
+
 
 ## Descrição
 Conforme extraída dos vídeos do Prof. Ricardo
@@ -39,3 +51,8 @@ Conforme extraída dos vídeos do Prof. Ricardo
 
 >[...]Nessa aula eu mostro alguns seletores CSS avançados, baseados em pseudo-seletores que compreendem campos de formulários em diferentes estados (ativos, válidos, com foco, obrigatórios etc.), linhas de tabelas em diferentes posições e outras situações interessantes.
 
+>[...]Nessa aula, eu mostro como usar as propriedades display, visibility, opacity e transition. Uma atenção maior é dada para a propriedade display, por conta de sua importância para a criação de leiautes, algo essencial para a construção de qualquer página.
+
+>[...]Nessa aula, eu mostro como posicionar elementos HTML usando as propriedades CSS position, top, right, bottom, left e z-index. São mostradas as cinco formas de posicionamento, a saber, estática, relativa, fixa, absoluta e adesiva. É um assunto fundamental para a construção de leiautes. 
+
+>[...]Nessa aula, eu mostro como tratar elementos cujo conteúdo extrapole a área disponível. Mostro também como usar flutuação para diagramar textos com imagens nas laterais e compor leiautes. Por fim, faço 3 estudos de caso, incluindo um álbum de fotos, um menu horizontal e um leiaute completo de uma página com cabeçalho, menu, submenu lateral, região de conteúdo e rodapé. 
