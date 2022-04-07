@@ -1,0 +1,42 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+ */
+body, a {
+    color: gray;
+}
+
+h1 {
+    
+    /* font-size: 5vw; */
+    /* text-align: center; */
+    /* text-shadow: 1px 1px 2px black; */
+    /* font-family: 'Quicksand'; */
+    /* font-style: italic; */
+    /* font-weight: lighter; */
+    /* font-variant: small-caps; */
+
+    font: normal small-caps no
+
+}
+
+p {
+    text-align: justify;
+    /*
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    */
+    text-decoration: underline wavy;
+    text-transform: capitalize;
+    text-indent: 3rem;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    word-spacing: 5px;
+    /*
+    white-space: nowrap;
+    white-space: pre;
+    white-space: pre-wrap;
+    white-space: pre-line;
+    */
+    white-space: normal;
+    
+
+}

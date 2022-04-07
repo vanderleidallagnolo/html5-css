@@ -1,0 +1,50 @@
+h1{
+    color: blue;
+}
+
+i{
+    color: red;
+}
+
+ul{
+    background-color: black;
+}
+
+p{
+    color: orange;
+}
+
+.vermelho{
+    color: red;
+}
+
+#p2, a, h1{
+    font-size: 24px;
+    color: blue;
+}
+
+/* Seletor Universal */
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Seletor de descendentes */
+h1 i {
+    color: yellow;
+}
+
+/* Seletor de pai pra filho => mais específico que o seletor por dependência */
+h1 > i {
+    color: green;
+}
+
+/* Seletor de elementos vizinhos POSTERIORES */
+ul ~ p {
+    text-decoration: underline;
+}
+
+/* Seletor do primeiro elemento vizinho IMEDIATO especificamente - SEM permissão de haver elementos intermediários entre o "pai" e aquele da referência - no exemplo o "p" */
+ul + p {
+    text-decoration: line-through;
+
+}
