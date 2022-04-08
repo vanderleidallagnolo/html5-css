@@ -1,0 +1,20 @@
+body {
+    margin: 30px;
+}
+
+p>img{
+    margin-right: 10px;
+    /* margin-left: 10px;     */
+    height: 200px;
+    float: left;
+    /* float: right;     */
+    /* opacity: 0.1; */
+}
+
+p {
+    font-size: 30px;
+    /* text-align: right; */
+    background-image: url(bg.png);
+    background-size: 300px;
+    overflow: hidden;
+}

@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    float: left;
+    width: 16.66%;
+    border: 10px solid white;
+    border-radius: 20px;
+}
